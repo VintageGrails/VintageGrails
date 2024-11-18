@@ -2,7 +2,7 @@
 
 - 🏢 I'm currently working on growing my own personal business.
 - 👨‍💻 SysAdmin evolving into DevOps.
-- 📧 How to reach me: joshuamel07@gmail.com.
+- 📧 How to reach me: joshuamelo7@gmail.com.
 - ⚡ Fun fact: New Zealand has more cats per person than any other country in the world 😺.
 
 <!--
