@@ -1,7 +1,7 @@
 # Automating the boring stuff while keeping systems singing 🚀
 
 - 🏢 Developing a curated Funko Pop collection & retail space.
-- 👨‍💻 SysAdmin evolving into DevOps.
+- 👨‍💻 SysAdmin evolving into Cloud System Admin.
 - 📧 How to reach me: joshuamelo7@gmail.com.
 - ⚡ Fun fact: New Zealand has more cats per person than any other country in the world 😺.
 
